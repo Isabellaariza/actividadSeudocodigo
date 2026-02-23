@@ -16,6 +16,6 @@ Promedio(){
   print("$nota3");
 
   double resultado = nota1 + nota2 + nota3;
-  double promedio = resultado * 3;
+  double promedio = resultado / 3;
   print(promedio);
 }
